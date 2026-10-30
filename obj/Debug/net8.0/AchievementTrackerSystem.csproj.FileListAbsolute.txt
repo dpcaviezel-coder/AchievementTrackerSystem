@@ -1,0 +1,14 @@
+C:\Users\dpcav\source\MyProjects\AchievementTrackerSystem\AchievementTrackerSystem\bin\Debug\net8.0\AchievementTrackerSystem.exe
+C:\Users\dpcav\source\MyProjects\AchievementTrackerSystem\AchievementTrackerSystem\bin\Debug\net8.0\AchievementTrackerSystem.deps.json
+C:\Users\dpcav\source\MyProjects\AchievementTrackerSystem\AchievementTrackerSystem\bin\Debug\net8.0\AchievementTrackerSystem.runtimeconfig.json
+C:\Users\dpcav\source\MyProjects\AchievementTrackerSystem\AchievementTrackerSystem\bin\Debug\net8.0\AchievementTrackerSystem.dll
+C:\Users\dpcav\source\MyProjects\AchievementTrackerSystem\AchievementTrackerSystem\bin\Debug\net8.0\AchievementTrackerSystem.pdb
+C:\Users\dpcav\source\MyProjects\AchievementTrackerSystem\AchievementTrackerSystem\obj\Debug\net8.0\AchievementTrackerSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dpcav\source\MyProjects\AchievementTrackerSystem\AchievementTrackerSystem\obj\Debug\net8.0\AchievementTrackerSystem.AssemblyInfoInputs.cache
+C:\Users\dpcav\source\MyProjects\AchievementTrackerSystem\AchievementTrackerSystem\obj\Debug\net8.0\AchievementTrackerSystem.AssemblyInfo.cs
+C:\Users\dpcav\source\MyProjects\AchievementTrackerSystem\AchievementTrackerSystem\obj\Debug\net8.0\AchievementTrackerSystem.csproj.CoreCompileInputs.cache
+C:\Users\dpcav\source\MyProjects\AchievementTrackerSystem\AchievementTrackerSystem\obj\Debug\net8.0\AchievementTrackerSystem.dll
+C:\Users\dpcav\source\MyProjects\AchievementTrackerSystem\AchievementTrackerSystem\obj\Debug\net8.0\refint\AchievementTrackerSystem.dll
+C:\Users\dpcav\source\MyProjects\AchievementTrackerSystem\AchievementTrackerSystem\obj\Debug\net8.0\AchievementTrackerSystem.pdb
+C:\Users\dpcav\source\MyProjects\AchievementTrackerSystem\AchievementTrackerSystem\obj\Debug\net8.0\AchievementTrackerSystem.genruntimeconfig.cache
+C:\Users\dpcav\source\MyProjects\AchievementTrackerSystem\AchievementTrackerSystem\obj\Debug\net8.0\ref\AchievementTrackerSystem.dll
